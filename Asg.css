@@ -1,0 +1,59 @@
+
+ .card{
+    /* position: static; */
+    border: 3px solid transparent;
+  
+    
+    
+   
+} 
+
+
+.card-img img{
+    width: 100px;
+    height: auto;
+    border-radius: 100px;
+    border: 15px solid rgb(229, 233, 235);
+    margin: 20px;
+    
+    
+   
+}
+
+
+.card-img h1{
+    color: white;
+}
+
+.card-img p{
+    color: white;
+}
+
+
+.container{
+    background-color: rgba(15, 15, 14, 0.51);
+    width: 20%;
+    height: auto;
+   
+    border-radius: 10px;
+   
+   
+
+}
+
+.b1{
+    color: white;
+    background-color: transparent;
+    box-sizing: 0 20px 20px;
+    border-radius: 10px;
+    padding: 12px;
+    margin: 10px;
+}
+
+.a1 img{
+    border-radius: 50px;
+}
+
+
+
+
